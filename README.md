@@ -79,9 +79,13 @@ You can also upload your own CSV file containing these columns:
 
 Your uploaded dataset must contain both failure labels.
 
-## Live Demo
 
-The live dashboard link will be added here after deployment.
+## 🚀 Live Dashboard
+
+Try the application here:
+
+[Open Predictive Maintenance Dashboard](https://predictivemaintenancelivedashboard-4m8nn38sfkcu68vu53g6bm.streamlit.app)
+
 
 ## What I Learned
 
